@@ -1,0 +1,366 @@
+.lp-projetosdeemails-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.lp-projetosdeemails-lp-projetosdeemails {
+  gap: 10px;
+  width: 100%;
+  height: 2356px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+.lp-projetosdeemails-image {
+  top: 481px;
+  left: 0px;
+  width: 1920px;
+  height: 460px;
+  position: absolute;
+}
+.lp-projetosdeemails-vdeodesafio {
+  top: 89px;
+  left: 155px;
+  width: 805px;
+  height: 805px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.lp-projetosdeemails-note {
+  top: 0px;
+  left: 0px;
+  width: 805px;
+  height: 805px;
+  position: absolute;
+}
+.lp-projetosdeemails-video {
+  top: 166.03125px;
+  left: 71.4437484741211px;
+  width: 660px;
+  height: 426px;
+  position: absolute;
+  border-radius: 7px;
+}
+.lp-projetosdeemails-text10 {
+  top: 344px;
+  left: 1008px;
+  color: rgba(241, 89, 34, 1);
+  width: 542px;
+  height: auto;
+  position: absolute;
+  font-size: 64px;
+  font-style: ExtraBold;
+  text-align: left;
+  font-family: Nunito;
+  font-weight: 800;
+  line-height: 70px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.lp-projetosdeemails-text11 {
+  color: var(--dl-color-default-laranja);
+}
+.lp-projetosdeemails-text13 {
+  color: var(--dl-color-default-laranja);
+}
+.lp-projetosdeemails-text15 {
+  top: 2132px;
+  left: 720px;
+  color: var(--dl-color-default-preto);
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Nunito;
+  font-weight: 400;
+  line-height: 35px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.lp-projetosdeemails-text16 {
+  font-weight: 400;
+}
+.lp-projetosdeemails-text18 {
+  font-weight: 400;
+}
+.lp-projetosdeemails-rectangle4 {
+  top: 934px;
+  left: 938.7868041992188px;
+  width: 30px;
+  height: 30px;
+  position: absolute;
+}
+.lp-projetosdeemails-adoracao {
+  top: 1181px;
+  left: 965px;
+  width: 312px;
+  height: 420px;
+  position: absolute;
+}
+.lp-projetosdeemails-culto10anos {
+  top: 1621px;
+  left: 325px;
+  width: 300px;
+  height: 200px;
+  position: absolute;
+}
+.lp-projetosdeemails-culto {
+  top: 1401px;
+  left: 646px;
+  width: 300px;
+  height: 200px;
+  position: absolute;
+}
+.lp-projetosdeemails-louvor {
+  top: 1621px;
+  left: 646px;
+  width: 631px;
+  height: 420px;
+  position: absolute;
+}
+.lp-projetosdeemails-cultoterreno {
+  top: 1402px;
+  left: 1300px;
+  width: 300px;
+  height: 199px;
+  position: absolute;
+}
+.lp-projetosdeemails-terreno {
+  top: 1181px;
+  left: 645px;
+  width: 300px;
+  height: 200px;
+  position: absolute;
+}
+.lp-projetosdeemails-escolabblicadefrias {
+  top: 1401px;
+  left: 325px;
+  width: 300px;
+  height: 200px;
+  position: absolute;
+}
+.lp-projetosdeemails-batismo {
+  top: 1841px;
+  left: 1300px;
+  width: 300px;
+  height: 201px;
+  position: absolute;
+}
+.lp-projetosdeemails-igrejaexpositiva {
+  top: 1181px;
+  left: 325px;
+  width: 300px;
+  height: 201px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.lp-projetosdeemails-rectangle1 {
+  top: 0px;
+  left: 0px;
+  width: 300px;
+  height: 200px;
+  position: absolute;
+}
+.lp-projetosdeemails-text20 {
+  top: 1px;
+  left: 50px;
+  color: var(--dl-color-default-bege);
+  width: 200px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Nunito;
+  font-weight: 400;
+  line-height: 20px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.lp-projetosdeemails-text21 {
+  font-weight: 400;
+}
+.lp-projetosdeemails-text22 {
+  font-weight: 700;
+}
+.lp-projetosdeemails-lideranacrvel {
+  top: 1621px;
+  left: 1300px;
+  width: 300px;
+  height: 200px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(241, 89, 34, 1);
+}
+.lp-projetosdeemails-text24 {
+  left: 50px;
+  color: var(--dl-color-default-bege);
+  width: 200px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Nunito;
+  font-weight: 400;
+  line-height: 20px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.lp-projetosdeemails-text25 {
+  font-weight: 400;
+}
+.lp-projetosdeemails-text26 {
+  font-weight: 700;
+}
+.lp-projetosdeemails-membresiasaudvel {
+  top: 1181px;
+  left: 1300px;
+  width: 300px;
+  height: 200px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(241, 89, 34, 1);
+}
+.lp-projetosdeemails-text28 {
+  left: 50px;
+  color: var(--dl-color-default-bege);
+  width: 200px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Nunito;
+  font-weight: 400;
+  line-height: 20px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.lp-projetosdeemails-text29 {
+  font-weight: 400;
+}
+.lp-projetosdeemails-text30 {
+  font-weight: 700;
+}
+.lp-projetosdeemails-igrejamissional {
+  top: 1841px;
+  left: 325px;
+  width: 300px;
+  height: 200px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(241, 89, 34, 1);
+}
+.lp-projetosdeemails-text32 {
+  top: 1px;
+  left: 50px;
+  color: var(--dl-color-default-bege);
+  width: 200px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Nunito;
+  font-weight: 400;
+  line-height: 20px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.lp-projetosdeemails-text33 {
+  font-weight: 400;
+}
+.lp-projetosdeemails-text34 {
+  font-weight: 700;
+}
+.lp-projetosdeemails-text36 {
+  top: 1001px;
+  left: 321px;
+  color: rgba(0, 0, 0, 1);
+  width: 1277px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Nunito;
+  font-weight: 400;
+  line-height: 24px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.lp-projetosdeemails-text42 {
+  top: 841px;
+  left: 746px;
+  color: var(--dl-color-default-bege);
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Nunito;
+  font-weight: 400;
+  line-height: 35px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.lp-projetosdeemails-text43 {
+  color: rgba(251, 237, 215, 1);
+  font-weight: 400;
+}
+.lp-projetosdeemails-text45 {
+  color: rgba(251, 237, 215, 1);
+  font-weight: 400;
+}
+.lp-projetosdeemails-botao {
+  gap: 54px;
+  top: 593px;
+  left: 1008px;
+  width: 347px;
+  height: 50px;
+  display: flex;
+  padding: 15px 9px;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 9px;
+  justify-content: center;
+  background-color: var(--dl-color-default-bege);
+}
+.lp-projetosdeemails-text47 {
+  color: var(--dl-color-default-laranja);
+  height: auto;
+  font-size: 18px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: 68px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.lp-projetosdeemails-image1 {
+  top: 428px;
+  left: 516px;
+  width: 80px;
+  height: 80px;
+  position: absolute;
+}
